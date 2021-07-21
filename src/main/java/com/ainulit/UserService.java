@@ -7,6 +7,8 @@ public class UserService {
 		System.out.println("Welcome to visit our Website...");
 		int a=10;
 		int b=20;
+		int c=a+b;
+		System.out.println("result"+c);
 		
 	}
 

@@ -11,5 +11,11 @@ public class UserService {
 		System.out.println("result"+c);
 		
 	}
+      
+      public void msg()
+{
+   System.out.println("dnnfbbhhff");
+
+}
 
 }

@@ -1,7 +1,7 @@
 package com.ainulit;
 
 public class UserService {
-
+          private Map<String,String> hmp=new Hashmap<>();
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

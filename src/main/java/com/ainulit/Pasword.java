@@ -3,6 +3,8 @@ package com.ainulit;
 public class Pasword {
  private Map<String,integer> hm=new HasMap<String,Integer>();
 
+
+     private String final URL="http://www.ashokit.in";
 	public String home() {
 		System.out.println("nwdkbrfhbehlb");
 		return "hi";
@@ -13,4 +15,8 @@ public class Pasword {
 
 		return "Welcome to It";
 	}
+         int x=77;
+         int y=99;
+
+
 }

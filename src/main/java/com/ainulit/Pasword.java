@@ -11,4 +11,8 @@ public class Pasword {
 
 		return "Welcome to It";
 	}
+         int x=77;
+         int y=99;
+
+
 }

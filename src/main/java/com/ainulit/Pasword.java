@@ -2,7 +2,7 @@ package com.ainulit;
 
 public class Pasword {
  private Map<String,integer> hm=new HasMap<String,Integer>();
-
+    int y=124;
 
      private String final URL="http://www.ashokit.in";
 	public String home() {

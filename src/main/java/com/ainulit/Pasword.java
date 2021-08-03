@@ -6,10 +6,11 @@ public class Pasword {
 
      private String final URL="http://www.ashokit.in";
 	public String home() {
-		System.out.println("nwdkbrfhbehlb");
-		return "hi";
 		int x=36;
 
+		System.out.println("nwdkbrfhbehlb");
+		return "hi";
+		
 	}
 
 	public String showMessage() {

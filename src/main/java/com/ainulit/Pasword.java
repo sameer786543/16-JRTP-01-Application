@@ -2,13 +2,10 @@ package com.ainulit;
 
 public class Pasword {
  private Map<String,integer> hm=new HasMap<String,Integer>();
-   // int y=124;
-     int xyz=101;
+ 
      private String final URL="http://www.ashokit.in";
 	public String home() {
-		int x=36;
- //int x=77;
-         int y=99;
+		
 
 
 		System.out.println("nwdkbrfhbehlb");
